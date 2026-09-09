@@ -1,8 +1,6 @@
 # Hi, I'm Sukhdeep 👋
 
-I build practical AI systems, automation tools, and API integrations. I enjoy
-tracing difficult reliability problems to their source and contributing focused,
-well-tested fixes upstream.
+I build practical AI agents and systems, automation tools, API integrations and reliability.
 
 ## Open-source contributions
 
@@ -20,13 +18,6 @@ well-tested fixes upstream.
   producing `PortInUseError` by sharing the in-flight startup operation. Merged in
   [PR #61772](https://github.com/openclaw/openclaw/pull/61772).
   [View commit](https://github.com/openclaw/openclaw/commit/6c1d4414d9450d52c16d773c8a235f50363a995d)
-
-## Selected projects
-
-- [Local LLM RAG with PGVector](https://github.com/sukhdeepjohar/local-llm-rag-pgvector) —
-  private-data analysis using local language models and PostgreSQL vector search.
-- [ExtremeCloudIQ SDK for Python](https://github.com/sukhdeepjohar/ExtremeCloudIQ-SDK-Python) —
-  Python tooling for working with ExtremeCloudIQ APIs.
 
 ## Interests
 
