@@ -4,11 +4,10 @@ I build practical AI agents and systems, automation tools, API integrations and 
 
 ## Open-source contributions
 
-- **OpenClaw:** fixed image edits failing behind LiteLLM proxies ([#118562](https://github.com/openclaw/openclaw/pull/118562))
-- **OpenClaw:** fixed a browser startup race causing `PortInUseError` ([#61772](https://github.com/openclaw/openclaw/pull/61772))
+- **OpenClaw** (open-source AI agent gateway): four merged fixes — concurrent browser startup, LiteLLM image-edit compatibility, sub-agent result recovery, and Doctor credential migration (the last co-authored with the maintainer) — and several more in review across meeting bots and agent recovery.
 - **LiteLLM:** stopped forced `temperature: 1.0` on Gemini 3+ requests ([#45107](https://github.com/BerriAI/litellm/pull/45107))
 
-[All merged open-source PRs →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Asukhdeepjohar+-org%3Amyluigi+-user%3Asukhdeepjohar&type=pullrequests)
+[All merged open-source PRs →](https://github.com/search?q=is%3Apr+is%3Amerged+involves%3Asukhdeepjohar+-org%3Amyluigi+-user%3Asukhdeepjohar+-repo%3ADocker-Hub-sirmark%2Fdocker-openclaw&type=pullrequests)
 
 ## Interests
 
