@@ -4,7 +4,7 @@ I build practical AI agents and systems, automation tools, API integrations and 
 
 ## Open-source contributions
 
-- **OpenClaw** (open-source AI agent gateway): ten merged fixes — concurrent browser startup, LiteLLM image-edit compatibility, sub-agent result recovery, Doctor credential migration (co-authored with the maintainer), honest recovery summaries after an output-limit cut-off or an earlier tool failure, compaction timeouts on long session histories, clearer retry errors for agent swarm workers, and Codex reply recovery after a missed send.
+- **OpenClaw** (open-source AI agent gateway): ten merged fixes — concurrent browser startup, LiteLLM image-edit compatibility, sub-agent result recovery, Doctor credential migration (co-authored with the maintainer), honest recovery summaries after an output-limit cut-off or an earlier tool failure, compaction timeouts on long session histories, clearer retry errors for agent swarm workers,  Codex reply recovery after a missed send, and Control UI reply recovery.
 - **LiteLLM:** stopped forced `temperature: 1.0` on Gemini 3+ requests
 
 [All merged open-source PRs →](https://github.com/search?q=is%3Apr+is%3Amerged+involves%3Asukhdeepjohar+-org%3Amyluigi+-user%3Asukhdeepjohar+-repo%3ADocker-Hub-sirmark%2Fdocker-openclaw&type=pullrequests)
